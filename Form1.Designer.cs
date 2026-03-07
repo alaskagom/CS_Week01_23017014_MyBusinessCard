@@ -54,7 +54,7 @@
             label1.AutoSize = true;
             label1.BackColor = Color.White;
             label1.Font = new Font("맑은 고딕", 36F, FontStyle.Bold, GraphicsUnit.Point, 129);
-            label1.Location = new Point(345, 64);
+            label1.Location = new Point(368, 64);
             label1.Name = "label1";
             label1.Size = new Size(215, 81);
             label1.TabIndex = 1;
